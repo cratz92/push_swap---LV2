@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: cbrito-l <cbrito-l@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/09 18:07:53 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 12:50:59 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 17:11:08 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -99,4 +99,5 @@ void	push_swap(t_stack **stack_a)
 	}
 	else
 		small_size(stack_a, &stack_b, total_size);
+	ft_lstclear_stack(&stack_b);
 }
