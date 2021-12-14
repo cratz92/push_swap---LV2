@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/30 19:53:11 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 12:20:47 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:50:22 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 static int	fm_top(t_stack *stack_b, int max)
 {

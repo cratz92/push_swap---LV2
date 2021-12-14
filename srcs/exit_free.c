@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/26 18:17:31 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 11:52:30 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:50:18 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 void	error_end(void)
 {

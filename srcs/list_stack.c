@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/07 18:37:10 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 11:52:36 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:50:41 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 void	ft_lstadd_back_stack(t_stack **lst, t_stack *new)
 {

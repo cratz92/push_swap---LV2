@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/08 13:33:04 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 11:52:47 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:51:11 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 static int	check_max_and_min(t_stack *stack_a, int b_content)
 {

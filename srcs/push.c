@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/01 10:03:01 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 11:52:38 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:51:04 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 void	push(t_stack **stack_dst, t_stack **stack_src, int ab)
 {

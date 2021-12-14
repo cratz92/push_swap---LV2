@@ -12,6 +12,7 @@
 
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
+
 # define MAX_INT 2147483647
 # define MIN_INT -2147483648
 # define SA 0
@@ -31,7 +32,7 @@
 # define MIN 14
 # define ONECHUNK 3
 
-# include <libft.h>
+# include "../libft/libft.h"
 # include <unistd.h>
 # include <stdlib.h>
 # include <fcntl.h>

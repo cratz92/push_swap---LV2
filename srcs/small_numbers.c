@@ -6,11 +6,11 @@
 /*   By: cbrito-l <cbrito-l@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/07 20:15:56 by javferna          #+#    #+#             */
-/*   Updated: 2021/12/14 12:22:40 by cbrito-l         ###   ########.fr       */
+/*   Updated: 2021/12/14 12:51:15 by cbrito-l         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <push_swap.h>
+#include "../includes/push_swap.h"
 
 static void	end_move(t_stack **stack_a, t_stack **stack_b, int moves, int cnt)
 {
